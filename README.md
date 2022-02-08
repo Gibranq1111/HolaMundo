@@ -1,4 +1,4 @@
 # holaMundo
-Mi primer repositorio onc usu primera rama
+Mi primer repositorio con su primera rama
 
 
